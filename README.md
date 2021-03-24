@@ -8,5 +8,5 @@
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraKappa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and tools
+## Languages & Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FraKappa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
