@@ -1,5 +1,5 @@
 # Hi 👋, I am Kappa
-### A passionate programmer from Italy
+### A passionate programmer from Italy (and helper at @python-discord 👀)
 
 - 🌱 I am currently working on my own programming language
 - 💬 Ask me about **Python**
