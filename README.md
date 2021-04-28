@@ -10,7 +10,7 @@
 - 📫 You can contact me on **Discord**, *Kappa#6203*
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraKappa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappa-05&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FraKappa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappa-05&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
