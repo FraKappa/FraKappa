@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/72104527/136626459-4b72d1cc-62da-46bf-8123-a7974933ce57.png">
 </p>
 
-## About me:
+## About Me
 - 🌱 I am currently working on my own programming language
 - 💬 Ask me about **Python**
 - 📫 You can contact me on **Discord**, `Kappa#1142`
