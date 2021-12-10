@@ -1,13 +1,11 @@
-<h3 align="center">Hi, I am Kappa 👋</h3>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72104527/136626459-4b72d1cc-62da-46bf-8123-a7974933ce57.png">
+  <img src="https://user-images.githubusercontent.com/72104527/145553070-5bde6e8f-f206-4a04-9f66-6779e3573edc.png">
 </p>
 
 ## About Me
-- 🌱 I am currently working on my own programming language
+- 🌱 I am currently trying to learn **Rust**
 - 💬 Ask me about **Python**
-- 📫 You can contact me on **Discord**, `Kappa#1142`
+- 📫 You can contact me on **Discord** (`Kappa#1142`)
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappa-05&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
