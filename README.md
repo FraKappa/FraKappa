@@ -4,7 +4,7 @@
 
 Hello, world! I'm Kappa, welcome to my GitHub profile.
 - Staff at [PythonDiscord](https://www.pythondiscord.com/).
-- Some experience with Python, I usually make random projects.
+- Some experience with Python.
 - Learning Rust.
 - I would like to create a chess engine and my own programming language.
 
