@@ -11,11 +11,9 @@ That's it! I'm just a random guy from Italy. 😄
 - You can contact me on Discord: `Kappa#1142`
 - Or write me an email: `f.cappetti.05@gmail.com`
 
-## CodeWars
-![Codewars](https://github.r2v.ch/codewars?user=Kappa_&stroke=%23376C9D)
-
 ## Stats
-[![Kappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![CodeWars](https://www.codewars.com/users/Kappa_/badges/large)
 
-## Languages
+[![Kappa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kappq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappq&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
