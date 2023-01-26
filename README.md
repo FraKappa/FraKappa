@@ -9,7 +9,6 @@ That's it! I'm just a random guy from Italy. 😄
 
 ## Contact Me
 - You can contact me on Discord: `Kappa#1142`
-- Or write me an email: `f.cappetti.05@gmail.com`
 
 ## Stats
 ![CodeWars](https://www.codewars.com/users/Kappa_/badges/large)
